@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Write any include statements here
+// Write any include statements here ///
 #define ll long long
 
 long long getMaxAdditionalDinersCount(long long N, long long K, int M, vector<long long> S)
