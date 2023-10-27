@@ -20,4 +20,4 @@
 
 - Problem 1 - Return Mismatched Words _(Python)_
 - Problem 2 - Return Smallest Key _(Python)_
-- Problem 3 - Return Smallest Key _(Python)_
+- Problem 3 - Filter _(SQL)_
