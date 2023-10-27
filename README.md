@@ -15,3 +15,9 @@
 - Problem 5 - [Uniform Integers](https://www.metacareers.com/profile/coding_puzzles/?puzzle=228269118726856)
 - Problem 6 - [Stack Stabilization _(Chapter 1)_](https://www.metacareers.com/profile/coding_puzzles/?puzzle=183894130288005)
 - Problem 7 - [Director of Photography _(Chapter 1)_](https://www.metacareers.com/profile/coding_puzzles/?puzzle=870874083549040)
+
+### Data engineer 1:
+
+- Problem 1 - Return Mismatched Words _(Python)_
+- Problem 2 - Return Smallest Key _(Python)_
+- Problem 3 - Return Smallest Key _(Python)_
